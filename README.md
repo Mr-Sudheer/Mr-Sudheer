@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudheer</h1>
 <h3 align="center">A passionate Cyber Enthusiast..</h3>
-![8-bit City_1920x1080](https://github.com/user-attachments/assets/63aa2dab-0cf6-4b7b-b48b-e595a1477d23)
+
+<img src="load.gif" width="100%"/>
 
 - 📫 reach me at - **senorsudheer@gmail.com**
 
