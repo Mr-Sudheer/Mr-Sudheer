@@ -1,4 +1,3 @@
-# 💫 About Me:
 🎓 Final-year B.Tech student<br>🔐 Cybersecurity enthusiast<br>🌱 Eager to learn and grow continuously in the tech field
 
 
